@@ -1,9 +1,9 @@
 main:
   - title: "Beiträge"
-    url: /beitraege
-  - title: "Autoren"
-    url: /autoren
+    url: /beitraege/
+  - title: "Autorenn"
+    url: /autoren/
   - title: "Suche"
-    url: /suche
+    url: /suche/
   - title: "Über uns"
-    url: /ueber-uns
+    url: /ueber-uns/
