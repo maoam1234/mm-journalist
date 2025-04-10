@@ -2,6 +2,7 @@
 layout: page
 title: Autoren
 permalink: /autoren/
+author_profile: true
 ---
 
 Hier könnt ihr euer Redaktionsteam vorstellen.
