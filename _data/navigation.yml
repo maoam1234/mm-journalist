@@ -1,6 +1,6 @@
 main:
   - title: "Beiträge"
-    url: /beitraege/
+    url: _pages/beitraege.md
   - title: "Autoren"
     url: /autoren/
   - title: "Suche"
