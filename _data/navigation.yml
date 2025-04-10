@@ -1,9 +1,9 @@
 main:
   - title: "Beiträge"
-    url: _pages/beitraege.md
+    url: /beitraege
   - title: "Autoren"
-    url: /autoren/
+    url: /autoren
   - title: "Suche"
-    url: /suche/
+    url: /suche
   - title: "Über uns"
-    url: /ueber-uns/
+    url: /ueber-uns
