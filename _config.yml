@@ -84,6 +84,16 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
+navigation:
+  - title: "Beiträge"
+    url: /beitraege/
+  - title: "Autoren"
+    url: /autoren/
+  - title: "Suche"
+    url: /suche/
+  - title: "Über uns"
+    url: /ueber-uns/
+    
 defaults:
   # _posts
   - scope:
